@@ -1,0 +1,13 @@
+body {
+    background-color: rgba(0, 0, 0, 0.852);
+}
+/* สีตัวอักษรใน Footer */
+footer {
+    color: #fff;
+  }
+  
+  /* ลิงก์ใน Footer จะเปลี่ยนสีเมื่อ hover */
+  footer a:hover {
+    color: #ffc107;
+  }
+  
